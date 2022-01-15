@@ -376,6 +376,14 @@ export const CONSTANTS: Constants = {
       backgroundColor: "#0d0d1a",
       description: "A Crypto-Techno-Horror Adventure. 666 fully algo-generated residents take part in missions to uncover the mystery of The Transmission.",
     },
+    'Froggos': {
+      name: "Froggos",
+      address: ["KT1QqTVamPvqEHMCKkzvYN8mxsxCCYjQKsdD"],
+      thumbnailUrl: "../../../assets/img/alias/froggos.jpg",
+      link: "https://froggos.xyz", shouldDisplayLink: DisplayLinkOption.None,
+      category: ["collectibles"],
+      description: "Froggos is a Generative clean NFT project of 2500 hand drawn frogs built on Tezos.",
+     },
     'Platypoos': {
       name: "Platypoos",
       address: ["KT1D394hqndjvTcFgrmUYBxwrzUTNtzrZ5ox"],
